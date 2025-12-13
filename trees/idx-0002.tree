@@ -1,11 +1,17 @@
 \date{2025-12-13}
-\title{Chapter 2}
+\title{Number Fields}
 \transclude{z-0001}
 \p{
     \em{Examples}
     \ol{
         \li{[Cyclotomic fields](z-0003)}
-        \li{[Quadratic fields](z-0004)}
+        \p{
+            #{K= \mathbb Q (\zeta)} where #{\zeta \in \mathbb C \vert \zeta ^n=1$ for some $n$ in $\mathbb N}
+        }
+        \li{[Quadratic fields](z-0004)
+        \p{
+            #{K= \mathbb Q(\sqrt d) = \{a+ b\sqrt d \colon a,b \in \mathbb Q\}, d \in \mathbb Z}
+        }}
     }
 }
 \transclude{z-0002}
