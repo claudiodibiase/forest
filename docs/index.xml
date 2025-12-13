@@ -58,10 +58,10 @@
               <fr:backmatter />
             </fr:tree>
             <fr:p><fr:em>Examples</fr:em>
-    <fr:ol><fr:li><fr:link type="local" href="z-0003.xml" addr="z-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link></fr:li>
-        <fr:p><fr:tex display="inline"><![CDATA[K= \mathbb  Q (\zeta )]]></fr:tex> where <fr:tex display="inline"><![CDATA[\zeta  \in  \mathbb  C \vert  \zeta  ^n=1$ for some $n$ in $\mathbb  N]]></fr:tex></fr:p>
-        <fr:li><fr:link type="local" href="z-0004.xml" addr="z-0004" title="Quadratic Field">Quadratic fields</fr:link></fr:li>
-        <fr:p><fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:p></fr:ol></fr:p>
+    <fr:ol><fr:li><fr:link type="local" href="z-0003.xml" addr="z-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link>
+        <fr:p><fr:tex display="inline"><![CDATA[K= \mathbb  Q (\zeta )]]></fr:tex> where <fr:tex display="inline"><![CDATA[\zeta  \in  \mathbb  C \vert  \zeta  ^n=1$ for some $n$ in $\mathbb  N]]></fr:tex></fr:p></fr:li>
+        <fr:li><fr:link type="local" href="z-0004.xml" addr="z-0004" title="Quadratic Field">Quadratic fields</fr:link>
+        <fr:p><fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:p></fr:li></fr:ol></fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
                 <fr:anchor>247</fr:anchor>
