@@ -5,7 +5,7 @@
     \em{Examples}
     \ol{
         \li{[Cyclotomic fields](z-0003)
-        #{K= \mathbb Q (\zeta)} where #{\zeta \in \mathbb C \vert \zeta ^n=1} for some #n in #{\mathbb N}
+        #{K= \mathbb Q (\zeta)} where #{\{\zeta \in \mathbb C \vert \zeta ^n=1\}} for some #{n} in #{\mathbb N}
         }
         \li{[Quadratic fields](z-0004)
         #{K= \mathbb Q(\sqrt d) = \{a+ b\sqrt d \colon a,b \in \mathbb Q\}, d \in \mathbb Z}
