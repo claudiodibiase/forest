@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>253</fr:anchor>
+    <fr:addr type="user">idx-0001</fr:addr>
+    <fr:route>idx-0001.xml</fr:route>
+    <fr:title text="Number Theory 1 - ALGANT">Number Theory 1 - ALGANT</fr:title>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>12</fr:month>
+      <fr:day>13</fr:day>
+    </fr:date>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:anchor>248</fr:anchor>
+        <fr:addr type="user">idx-0002</fr:addr>
+        <fr:route>idx-0002.xml</fr:route>
+        <fr:title text="Chapter 2">Chapter 2</fr:title>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>12</fr:month>
+          <fr:day>13</fr:day>
+        </fr:date>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>245</fr:anchor>
+            <fr:addr type="user">z-0001</fr:addr>
+            <fr:route>z-0001.xml</fr:route>
+            <fr:title text="Number Field">Number Field</fr:title>
+            <fr:taxon>Definition</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>13</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>A <fr:em>number field</fr:em> is a finite degree field extension <fr:tex display="inline"><![CDATA[K \subset  \mathbb  C]]></fr:tex> of <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex></fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:p><fr:em>Examples</fr:em>
+    <fr:ol><fr:li><fr:link type="local" href="z-0003.xml" addr="z-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link></fr:li>
+        <fr:li><fr:link type="local" href="z-0004.xml" addr="z-0004" title="Quadratic Field">Quadratic fields</fr:link></fr:li></fr:ol></fr:p>
+        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>246</fr:anchor>
+            <fr:addr type="user">z-0002</fr:addr>
+            <fr:route>z-0002.xml</fr:route>
+            <fr:title text="Number Ring">Number Ring</fr:title>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>13</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="local" href="z-0001.xml" addr="z-0001" title="Number Field">number field</fr:link>.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>254</fr:anchor>
+            <fr:addr type="user">index</fr:addr>
+            <fr:route>index.xml</fr:route>
+            <fr:title text="Claudio Di Biase">Claudio Di Biase</fr:title>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Mettetevi comodi, fate pure come se foste a casa vostra.</fr:p>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>255</fr:anchor>
+                <fr:addr type="user">idx-0001</fr:addr>
+                <fr:route>idx-0001.xml</fr:route>
+                <fr:title text="Number Theory 1 - ALGANT">Number Theory 1 - ALGANT</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>12</fr:month>
+                  <fr:day>13</fr:day>
+                </fr:date>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>248</fr:anchor>
+                    <fr:addr type="user">idx-0002</fr:addr>
+                    <fr:route>idx-0002.xml</fr:route>
+                    <fr:title text="Chapter 2">Chapter 2</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>12</fr:month>
+                      <fr:day>13</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>245</fr:anchor>
+                        <fr:addr type="user">z-0001</fr:addr>
+                        <fr:route>z-0001.xml</fr:route>
+                        <fr:title text="Number Field">Number Field</fr:title>
+                        <fr:taxon>Definition</fr:taxon>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>13</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>A <fr:em>number field</fr:em> is a finite degree field extension <fr:tex display="inline"><![CDATA[K \subset  \mathbb  C]]></fr:tex> of <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex></fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:p><fr:em>Examples</fr:em>
+    <fr:ol><fr:li><fr:link type="local" href="z-0003.xml" addr="z-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link></fr:li>
+        <fr:li><fr:link type="local" href="z-0004.xml" addr="z-0004" title="Quadratic Field">Quadratic fields</fr:link></fr:li></fr:ol></fr:p>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>246</fr:anchor>
+                        <fr:addr type="user">z-0002</fr:addr>
+                        <fr:route>z-0002.xml</fr:route>
+                        <fr:title text="Number Ring">Number Ring</fr:title>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>13</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="local" href="z-0001.xml" addr="z-0001" title="Number Field">number field</fr:link>.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
