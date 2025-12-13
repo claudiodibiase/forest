@@ -1,0 +1,6 @@
+\date{2025-12-13}
+\title{Number Field}
+\taxon{Definition}
+\p{
+    A \em{number field} is a finite degree field extension #{K \subset \mathbb C} of #{\mathbb Q}
+}
