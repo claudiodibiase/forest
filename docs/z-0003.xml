@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>244</fr:anchor>
+    <fr:anchor>245</fr:anchor>
     <fr:addr type="user">z-0003</fr:addr>
     <fr:route>z-0003.xml</fr:route>
     <fr:title text="Cyclotomic Field">Cyclotomic Field</fr:title>
@@ -25,7 +25,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>245</fr:anchor>
+            <fr:anchor>246</fr:anchor>
             <fr:addr type="user">idx-0002</fr:addr>
             <fr:route>idx-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>
@@ -39,7 +39,7 @@
           <fr:mainmatter>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>246</fr:anchor>
+                <fr:anchor>247</fr:anchor>
                 <fr:addr type="user">z-0001</fr:addr>
                 <fr:route>z-0001.xml</fr:route>
                 <fr:title text="Number Field">Number Field</fr:title>
@@ -63,7 +63,7 @@
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>247</fr:anchor>
+                <fr:anchor>248</fr:anchor>
                 <fr:addr type="user">z-0002</fr:addr>
                 <fr:route>z-0002.xml</fr:route>
                 <fr:title text="Number Ring">Number Ring</fr:title>
