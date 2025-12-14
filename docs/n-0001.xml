@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>258</fr:anchor>
+    <fr:anchor>268</fr:anchor>
     <fr:addr type="user">n-0001</fr:addr>
     <fr:route>n-0001.xml</fr:route>
     <fr:title text="Number Field">Number Field</fr:title>
@@ -26,7 +26,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>259</fr:anchor>
+            <fr:anchor>269</fr:anchor>
             <fr:addr type="user">i-0002</fr:addr>
             <fr:route>i-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>
@@ -81,6 +81,26 @@
               <fr:backmatter />
             </fr:tree>
             <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>249</fr:anchor>
+                <fr:addr type="user">n-0005</fr:addr>
+                <fr:route>n-0005.xml</fr:route>
+                <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>12</fr:month>
+                  <fr:day>14</fr:day>
+                </fr:date>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
+                <fr:p><fr:em>Proof</fr:em>
+    Procede by induction on <fr:tex display="inline"><![CDATA[n \colon  = [K \colon  F]]]></fr:tex>. If <fr:tex display="inline"><![CDATA[n=1]]></fr:tex> there is nothing to prove. Let the assertion be true up to <fr:tex display="inline"><![CDATA[n]]></fr:tex>. Taking any <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
