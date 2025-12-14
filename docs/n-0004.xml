@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>261</fr:anchor>
-    <fr:addr type="user">z-0003</fr:addr>
-    <fr:route>z-0003.xml</fr:route>
-    <fr:title text="Cyclotomic Field">Cyclotomic Field</fr:title>
+    <fr:anchor>262</fr:anchor>
+    <fr:addr type="user">n-0004</fr:addr>
+    <fr:route>n-0004.xml</fr:route>
+    <fr:title text="Quadratic Field">Quadratic Field</fr:title>
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>12</fr:month>
@@ -13,9 +13,7 @@
     </fr:date>
     <fr:authors />
   </fr:frontmatter>
-  <fr:mainmatter>
-    <fr:p>WIP</fr:p>
-  </fr:mainmatter>
+  <fr:mainmatter />
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
@@ -25,9 +23,9 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>262</fr:anchor>
-            <fr:addr type="user">idx-0002</fr:addr>
-            <fr:route>idx-0002.xml</fr:route>
+            <fr:anchor>263</fr:anchor>
+            <fr:addr type="user">i-0002</fr:addr>
+            <fr:route>i-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>
             <fr:date>
               <fr:year>2025</fr:year>
@@ -40,8 +38,8 @@
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
                 <fr:anchor>247</fr:anchor>
-                <fr:addr type="user">z-0001</fr:addr>
-                <fr:route>z-0001.xml</fr:route>
+                <fr:addr type="user">n-0001</fr:addr>
+                <fr:route>n-0001.xml</fr:route>
                 <fr:title text="Number Field">Number Field</fr:title>
                 <fr:taxon>Definition</fr:taxon>
                 <fr:date>
@@ -57,15 +55,15 @@
               <fr:backmatter />
             </fr:tree>
             <fr:p><fr:em>Examples</fr:em>
-    <fr:ol><fr:li><fr:link type="local" href="z-0003.xml" addr="z-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link>
+    <fr:ol><fr:li><fr:link type="local" href="n-0003.xml" addr="n-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link>
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q (\zeta )]]></fr:tex> where <fr:tex display="inline"><![CDATA[\{\zeta  \in  \mathbb  C \vert  \zeta  ^n=1\}]]></fr:tex> for some <fr:tex display="inline"><![CDATA[n]]></fr:tex> in <fr:tex display="inline"><![CDATA[\mathbb  N]]></fr:tex></fr:li>
-        <fr:li><fr:link type="local" href="z-0004.xml" addr="z-0004" title="Quadratic Field">Quadratic fields</fr:link>
+        <fr:li><fr:link type="local" href="n-0004.xml" addr="n-0004" title="Quadratic Field">Quadratic fields</fr:link>
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
                 <fr:anchor>248</fr:anchor>
-                <fr:addr type="user">z-0002</fr:addr>
-                <fr:route>z-0002.xml</fr:route>
+                <fr:addr type="user">n-0002</fr:addr>
+                <fr:route>n-0002.xml</fr:route>
                 <fr:title text="Number Ring">Number Ring</fr:title>
                 <fr:date>
                   <fr:year>2025</fr:year>
@@ -75,7 +73,7 @@
                 <fr:authors />
               </fr:frontmatter>
               <fr:mainmatter>
-                <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="local" href="z-0001.xml" addr="z-0001" title="Number Field">number field</fr:link>.</fr:p>
+                <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="external" href="z-0001">number field</fr:link>.</fr:p>
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
