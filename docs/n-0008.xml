@@ -2,19 +2,20 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>292</fr:anchor>
-    <fr:addr type="user">n-0002</fr:addr>
-    <fr:route>n-0002.xml</fr:route>
-    <fr:title text="Number Ring">Number Ring</fr:title>
+    <fr:anchor>266</fr:anchor>
+    <fr:addr type="user">n-0008</fr:addr>
+    <fr:route>n-0008.xml</fr:route>
+    <fr:title text="Galois Extension">Galois Extension</fr:title>
+    <fr:taxon>Definition</fr:taxon>
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>12</fr:month>
-      <fr:day>13</fr:day>
+      <fr:day>14</fr:day>
     </fr:date>
     <fr:authors />
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="external" href="z-0001">number field</fr:link>.</fr:p>
+    <fr:p>A field extension <fr:tex display="inline"><![CDATA[K \vert  F]]></fr:tex> is <fr:em>Galois</fr:em> if the subfield <fr:tex display="inline"><![CDATA[F^{\operatorname {Gal}(K \vert  F)}]]></fr:tex> of <fr:tex display="inline"><![CDATA[K]]></fr:tex> fixed  by <fr:tex display="inline"><![CDATA[\operatorname {Gal}(K \vert  F)]]></fr:tex> is the whole base field <fr:tex display="inline"><![CDATA[F]]></fr:tex>.</fr:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
@@ -25,7 +26,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>293</fr:anchor>
+            <fr:anchor>267</fr:anchor>
             <fr:addr type="user">i-0002</fr:addr>
             <fr:route>i-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>

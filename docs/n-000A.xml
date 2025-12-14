@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>269</fr:anchor>
+    <fr:addr type="user">n-000A</fr:addr>
+    <fr:route>n-000A.xml</fr:route>
+    <fr:title text="Galois extension for number fields">Galois extension for number fields</fr:title>
+    <fr:taxon>Remark</fr:taxon>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>12</fr:month>
+      <fr:day>14</fr:day>
+    </fr:date>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>An extension of number fields <fr:tex display="inline"><![CDATA[K \vert  F]]></fr:tex> is Galois if all immersions <fr:tex display="inline"><![CDATA[\sigma :K \to  \mathbb  C]]></fr:tex> fixing <fr:tex display="inline"><![CDATA[F]]></fr:tex> also fix <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter />
+</fr:tree>

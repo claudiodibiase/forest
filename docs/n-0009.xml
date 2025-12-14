@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>268</fr:anchor>
+    <fr:addr type="user">n-0009</fr:addr>
+    <fr:route>n-0009.xml</fr:route>
+    <fr:title text="Galois Group">Galois Group</fr:title>
+    <fr:taxon>Definition</fr:taxon>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>12</fr:month>
+      <fr:day>14</fr:day>
+    </fr:date>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>Given a field extension <fr:tex display="inline"><![CDATA[K \vert  F]]></fr:tex>, the <fr:tex display="inline"><![CDATA[F-]]></fr:tex>automorphisms of <fr:tex display="inline"><![CDATA[K]]></fr:tex> form a group, which we call the <fr:em>Galois group</fr:em> of <fr:tex display="inline"><![CDATA[K \vert  F]]></fr:tex>. We denote such group by <fr:tex display="inline"><![CDATA[\operatorname {Gal}(K\vert  F)]]></fr:tex>.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter />
+</fr:tree>

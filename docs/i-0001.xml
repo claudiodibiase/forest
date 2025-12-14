@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>261</fr:anchor>
+    <fr:anchor>284</fr:anchor>
     <fr:addr type="user">i-0001</fr:addr>
     <fr:route>i-0001.xml</fr:route>
     <fr:title text="Number Theory 1 - ALGANT">Number Theory 1 - ALGANT</fr:title>
@@ -14,9 +14,9 @@
     <fr:authors />
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>252</fr:anchor>
+        <fr:anchor>274</fr:anchor>
         <fr:addr type="user">i-0002</fr:addr>
         <fr:route>i-0002.xml</fr:route>
         <fr:title text="Number Fields">Number Fields</fr:title>
@@ -30,7 +30,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>247</fr:anchor>
+            <fr:anchor>251</fr:anchor>
             <fr:addr type="user">n-0001</fr:addr>
             <fr:route>n-0001.xml</fr:route>
             <fr:title text="Number Field">Number Field</fr:title>
@@ -54,7 +54,7 @@
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
         <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>248</fr:anchor>
+            <fr:anchor>252</fr:anchor>
             <fr:addr type="user">n-0002</fr:addr>
             <fr:route>n-0002.xml</fr:route>
             <fr:title text="Number Ring">Number Ring</fr:title>
@@ -73,7 +73,7 @@
         <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
         <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>249</fr:anchor>
+            <fr:anchor>253</fr:anchor>
             <fr:addr type="user">n-0005</fr:addr>
             <fr:route>n-0005.xml</fr:route>
             <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
@@ -84,10 +84,80 @@
             </fr:date>
             <fr:authors />
           </fr:frontmatter>
+          <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
+ 
+   
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:addr type="machine">#243</fr:addr><fr:route>unstable-243.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+    WIP
+</fr:mainmatter><fr:backmatter /></fr:tree>
+ 
+</fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>255</fr:anchor>
+            <fr:addr type="user">n-000B</fr:addr>
+            <fr:route>n-000B.xml</fr:route>
+            <fr:title text="Primitive element theorem for number fields">Primitive element theorem for number fields</fr:title>
+            <fr:taxon>Theorem</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>14</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Then <fr:tex display="inline"><![CDATA[K=F[\alpha ]]]></fr:tex></fr:p>
+ 
+   
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr type="machine">#241</fr:addr><fr:route>unstable-241.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+    WIP
+</fr:mainmatter><fr:backmatter /></fr:tree>
+ 
+</fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:p>Observe that in the last step we use that we are working with fields of characteristic<fr:tex display="inline"><![CDATA[0]]></fr:tex></fr:p>
+        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>257</fr:anchor>
+            <fr:addr type="user">n-0007</fr:addr>
+            <fr:route>n-0007.xml</fr:route>
+            <fr:taxon>Exercise</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>14</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter><fr:p>Find the primitive element of <fr:tex display="inline"><![CDATA[\mathbb  Q(\sqrt  2, \sqrt  3)]]></fr:tex></fr:p>
+ 
+   
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:addr type="machine">#242</fr:addr><fr:route>unstable-242.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+    WIP
+</fr:mainmatter><fr:backmatter /></fr:tree>
+ 
+</fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>258</fr:anchor>
+            <fr:addr type="user">n-0008</fr:addr>
+            <fr:route>n-0008.xml</fr:route>
+            <fr:title text="Galois Extension">Galois Extension</fr:title>
+            <fr:taxon>Definition</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>14</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
           <fr:mainmatter>
-            <fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
-            <fr:p><fr:em>Proof</fr:em>
-    Procede by induction on <fr:tex display="inline"><![CDATA[n \colon  = [K \colon  F]]]></fr:tex>. If <fr:tex display="inline"><![CDATA[n=1]]></fr:tex> there is nothing to prove. Let the assertion be true up to <fr:tex display="inline"><![CDATA[n]]></fr:tex>. Taking any <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:p>
+            <fr:p>A field extension <fr:tex display="inline"><![CDATA[K \vert  F]]></fr:tex> is <fr:em>Galois</fr:em> if the subfield <fr:tex display="inline"><![CDATA[F^{\operatorname {Gal}(K \vert  F)}]]></fr:tex> of <fr:tex display="inline"><![CDATA[K]]></fr:tex> fixed  by <fr:tex display="inline"><![CDATA[\operatorname {Gal}(K \vert  F)]]></fr:tex> is the whole base field <fr:tex display="inline"><![CDATA[F]]></fr:tex>.</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
@@ -104,7 +174,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>262</fr:anchor>
+            <fr:anchor>285</fr:anchor>
             <fr:addr type="user">i-0003</fr:addr>
             <fr:route>i-0003.xml</fr:route>
             <fr:title text="Master Courses">Master Courses</fr:title>
@@ -116,9 +186,9 @@
             <fr:authors />
           </fr:frontmatter>
           <fr:mainmatter>
-            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>251</fr:anchor>
+                <fr:anchor>273</fr:anchor>
                 <fr:addr type="user">i-0001</fr:addr>
                 <fr:route>i-0001.xml</fr:route>
                 <fr:title text="Number Theory 1 - ALGANT">Number Theory 1 - ALGANT</fr:title>
@@ -130,9 +200,9 @@
                 <fr:authors />
               </fr:frontmatter>
               <fr:mainmatter>
-                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>252</fr:anchor>
+                    <fr:anchor>274</fr:anchor>
                     <fr:addr type="user">i-0002</fr:addr>
                     <fr:route>i-0002.xml</fr:route>
                     <fr:title text="Number Fields">Number Fields</fr:title>
@@ -146,7 +216,7 @@
                   <fr:mainmatter>
                     <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>247</fr:anchor>
+                        <fr:anchor>251</fr:anchor>
                         <fr:addr type="user">n-0001</fr:addr>
                         <fr:route>n-0001.xml</fr:route>
                         <fr:title text="Number Field">Number Field</fr:title>
@@ -168,195 +238,12 @@
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q (\zeta )]]></fr:tex> where <fr:tex display="inline"><![CDATA[\{\zeta  \in  \mathbb  C \vert  \zeta  ^n=1\}]]></fr:tex> for some <fr:tex display="inline"><![CDATA[n]]></fr:tex> in <fr:tex display="inline"><![CDATA[\mathbb  N]]></fr:tex></fr:li>
         <fr:li><fr:link type="local" href="n-0004.xml" addr="n-0004" title="Quadratic Field">Quadratic fields</fr:link>
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
-                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                      <fr:frontmatter>
-                        <fr:anchor>248</fr:anchor>
-                        <fr:addr type="user">n-0002</fr:addr>
-                        <fr:route>n-0002.xml</fr:route>
-                        <fr:title text="Number Ring">Number Ring</fr:title>
-                        <fr:date>
-                          <fr:year>2025</fr:year>
-                          <fr:month>12</fr:month>
-                          <fr:day>13</fr:day>
-                        </fr:date>
-                        <fr:authors />
-                      </fr:frontmatter>
-                      <fr:mainmatter>
-                        <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="external" href="z-0001">number field</fr:link>.</fr:p>
-                      </fr:mainmatter>
-                      <fr:backmatter />
-                    </fr:tree>
-                    <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
-                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                      <fr:frontmatter>
-                        <fr:anchor>249</fr:anchor>
-                        <fr:addr type="user">n-0005</fr:addr>
-                        <fr:route>n-0005.xml</fr:route>
-                        <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
-                        <fr:date>
-                          <fr:year>2025</fr:year>
-                          <fr:month>12</fr:month>
-                          <fr:day>14</fr:day>
-                        </fr:date>
-                        <fr:authors />
-                      </fr:frontmatter>
-                      <fr:mainmatter>
-                        <fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
-                        <fr:p><fr:em>Proof</fr:em>
-    Procede by induction on <fr:tex display="inline"><![CDATA[n \colon  = [K \colon  F]]]></fr:tex>. If <fr:tex display="inline"><![CDATA[n=1]]></fr:tex> there is nothing to prove. Let the assertion be true up to <fr:tex display="inline"><![CDATA[n]]></fr:tex>. Taking any <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:p>
-                      </fr:mainmatter>
-                      <fr:backmatter />
-                    </fr:tree>
-                  </fr:mainmatter>
-                  <fr:backmatter />
-                </fr:tree>
-              </fr:mainmatter>
-              <fr:backmatter />
-            </fr:tree>
-          </fr:mainmatter>
-          <fr:backmatter />
-        </fr:tree>
-        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-          <fr:frontmatter>
-            <fr:anchor>263</fr:anchor>
-            <fr:addr type="user">index</fr:addr>
-            <fr:route>index.xml</fr:route>
-            <fr:title text="Claudio Di Biase">Claudio Di Biase</fr:title>
-            <fr:authors />
-          </fr:frontmatter>
-          <fr:mainmatter>
-            <fr:p>Mettetevi comodi, fate pure come se foste a casa vostra.</fr:p>
-            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-              <fr:frontmatter>
-                <fr:anchor>256</fr:anchor>
-                <fr:addr type="user">i-0001</fr:addr>
-                <fr:route>i-0001.xml</fr:route>
-                <fr:title text="Number Theory 1 - ALGANT">Number Theory 1 - ALGANT</fr:title>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>12</fr:month>
-                  <fr:day>13</fr:day>
-                </fr:date>
-                <fr:authors />
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                  <fr:frontmatter>
-                    <fr:anchor>252</fr:anchor>
-                    <fr:addr type="user">i-0002</fr:addr>
-                    <fr:route>i-0002.xml</fr:route>
-                    <fr:title text="Number Fields">Number Fields</fr:title>
-                    <fr:date>
-                      <fr:year>2025</fr:year>
-                      <fr:month>12</fr:month>
-                      <fr:day>13</fr:day>
-                    </fr:date>
-                    <fr:authors />
-                  </fr:frontmatter>
-                  <fr:mainmatter>
-                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                      <fr:frontmatter>
-                        <fr:anchor>247</fr:anchor>
-                        <fr:addr type="user">n-0001</fr:addr>
-                        <fr:route>n-0001.xml</fr:route>
-                        <fr:title text="Number Field">Number Field</fr:title>
-                        <fr:taxon>Definition</fr:taxon>
-                        <fr:date>
-                          <fr:year>2025</fr:year>
-                          <fr:month>12</fr:month>
-                          <fr:day>13</fr:day>
-                        </fr:date>
-                        <fr:authors />
-                      </fr:frontmatter>
-                      <fr:mainmatter>
-                        <fr:p>A <fr:em>number field</fr:em> is a finite degree field extension <fr:tex display="inline"><![CDATA[K \subset  \mathbb  C]]></fr:tex> of <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex></fr:p>
-                      </fr:mainmatter>
-                      <fr:backmatter />
-                    </fr:tree>
-                    <fr:p><fr:em>Examples</fr:em>
-    <fr:ol><fr:li><fr:link type="local" href="n-0003.xml" addr="n-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link>
-        <fr:tex display="inline"><![CDATA[K= \mathbb  Q (\zeta )]]></fr:tex> where <fr:tex display="inline"><![CDATA[\{\zeta  \in  \mathbb  C \vert  \zeta  ^n=1\}]]></fr:tex> for some <fr:tex display="inline"><![CDATA[n]]></fr:tex> in <fr:tex display="inline"><![CDATA[\mathbb  N]]></fr:tex></fr:li>
-        <fr:li><fr:link type="local" href="n-0004.xml" addr="n-0004" title="Quadratic Field">Quadratic fields</fr:link>
-        <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
-                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                      <fr:frontmatter>
-                        <fr:anchor>248</fr:anchor>
-                        <fr:addr type="user">n-0002</fr:addr>
-                        <fr:route>n-0002.xml</fr:route>
-                        <fr:title text="Number Ring">Number Ring</fr:title>
-                        <fr:date>
-                          <fr:year>2025</fr:year>
-                          <fr:month>12</fr:month>
-                          <fr:day>13</fr:day>
-                        </fr:date>
-                        <fr:authors />
-                      </fr:frontmatter>
-                      <fr:mainmatter>
-                        <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="external" href="z-0001">number field</fr:link>.</fr:p>
-                      </fr:mainmatter>
-                      <fr:backmatter />
-                    </fr:tree>
-                    <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
-                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                      <fr:frontmatter>
-                        <fr:anchor>249</fr:anchor>
-                        <fr:addr type="user">n-0005</fr:addr>
-                        <fr:route>n-0005.xml</fr:route>
-                        <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
-                        <fr:date>
-                          <fr:year>2025</fr:year>
-                          <fr:month>12</fr:month>
-                          <fr:day>14</fr:day>
-                        </fr:date>
-                        <fr:authors />
-                      </fr:frontmatter>
-                      <fr:mainmatter>
-                        <fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
-                        <fr:p><fr:em>Proof</fr:em>
-    Procede by induction on <fr:tex display="inline"><![CDATA[n \colon  = [K \colon  F]]]></fr:tex>. If <fr:tex display="inline"><![CDATA[n=1]]></fr:tex> there is nothing to prove. Let the assertion be true up to <fr:tex display="inline"><![CDATA[n]]></fr:tex>. Taking any <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:p>
-                      </fr:mainmatter>
-                      <fr:backmatter />
-                    </fr:tree>
-                  </fr:mainmatter>
-                  <fr:backmatter />
-                </fr:tree>
-              </fr:mainmatter>
-              <fr:backmatter />
-            </fr:tree>
-            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-              <fr:frontmatter>
-                <fr:anchor>257</fr:anchor>
-                <fr:addr type="user">i-0003</fr:addr>
-                <fr:route>i-0003.xml</fr:route>
-                <fr:title text="Master Courses">Master Courses</fr:title>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>12</fr:month>
-                  <fr:day>14</fr:day>
-                </fr:date>
-                <fr:authors />
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                  <fr:frontmatter>
-                    <fr:anchor>251</fr:anchor>
-                    <fr:addr type="user">i-0001</fr:addr>
-                    <fr:route>i-0001.xml</fr:route>
-                    <fr:title text="Number Theory 1 - ALGANT">Number Theory 1 - ALGANT</fr:title>
-                    <fr:date>
-                      <fr:year>2025</fr:year>
-                      <fr:month>12</fr:month>
-                      <fr:day>13</fr:day>
-                    </fr:date>
-                    <fr:authors />
-                  </fr:frontmatter>
-                  <fr:mainmatter>
                     <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
                         <fr:anchor>252</fr:anchor>
-                        <fr:addr type="user">i-0002</fr:addr>
-                        <fr:route>i-0002.xml</fr:route>
-                        <fr:title text="Number Fields">Number Fields</fr:title>
+                        <fr:addr type="user">n-0002</fr:addr>
+                        <fr:route>n-0002.xml</fr:route>
+                        <fr:title text="Number Ring">Number Ring</fr:title>
                         <fr:date>
                           <fr:year>2025</fr:year>
                           <fr:month>12</fr:month>
@@ -365,69 +252,98 @@
                         <fr:authors />
                       </fr:frontmatter>
                       <fr:mainmatter>
-                        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                          <fr:frontmatter>
-                            <fr:anchor>247</fr:anchor>
-                            <fr:addr type="user">n-0001</fr:addr>
-                            <fr:route>n-0001.xml</fr:route>
-                            <fr:title text="Number Field">Number Field</fr:title>
-                            <fr:taxon>Definition</fr:taxon>
-                            <fr:date>
-                              <fr:year>2025</fr:year>
-                              <fr:month>12</fr:month>
-                              <fr:day>13</fr:day>
-                            </fr:date>
-                            <fr:authors />
-                          </fr:frontmatter>
-                          <fr:mainmatter>
-                            <fr:p>A <fr:em>number field</fr:em> is a finite degree field extension <fr:tex display="inline"><![CDATA[K \subset  \mathbb  C]]></fr:tex> of <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex></fr:p>
-                          </fr:mainmatter>
-                          <fr:backmatter />
-                        </fr:tree>
-                        <fr:p><fr:em>Examples</fr:em>
-    <fr:ol><fr:li><fr:link type="local" href="n-0003.xml" addr="n-0003" title="Cyclotomic Field">Cyclotomic fields</fr:link>
-        <fr:tex display="inline"><![CDATA[K= \mathbb  Q (\zeta )]]></fr:tex> where <fr:tex display="inline"><![CDATA[\{\zeta  \in  \mathbb  C \vert  \zeta  ^n=1\}]]></fr:tex> for some <fr:tex display="inline"><![CDATA[n]]></fr:tex> in <fr:tex display="inline"><![CDATA[\mathbb  N]]></fr:tex></fr:li>
-        <fr:li><fr:link type="local" href="n-0004.xml" addr="n-0004" title="Quadratic Field">Quadratic fields</fr:link>
-        <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
-                        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                          <fr:frontmatter>
-                            <fr:anchor>248</fr:anchor>
-                            <fr:addr type="user">n-0002</fr:addr>
-                            <fr:route>n-0002.xml</fr:route>
-                            <fr:title text="Number Ring">Number Ring</fr:title>
-                            <fr:date>
-                              <fr:year>2025</fr:year>
-                              <fr:month>12</fr:month>
-                              <fr:day>13</fr:day>
-                            </fr:date>
-                            <fr:authors />
-                          </fr:frontmatter>
-                          <fr:mainmatter>
-                            <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="external" href="z-0001">number field</fr:link>.</fr:p>
-                          </fr:mainmatter>
-                          <fr:backmatter />
-                        </fr:tree>
-                        <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
-                        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-                          <fr:frontmatter>
-                            <fr:anchor>249</fr:anchor>
-                            <fr:addr type="user">n-0005</fr:addr>
-                            <fr:route>n-0005.xml</fr:route>
-                            <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
-                            <fr:date>
-                              <fr:year>2025</fr:year>
-                              <fr:month>12</fr:month>
-                              <fr:day>14</fr:day>
-                            </fr:date>
-                            <fr:authors />
-                          </fr:frontmatter>
-                          <fr:mainmatter>
-                            <fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
-                            <fr:p><fr:em>Proof</fr:em>
-    Procede by induction on <fr:tex display="inline"><![CDATA[n \colon  = [K \colon  F]]]></fr:tex>. If <fr:tex display="inline"><![CDATA[n=1]]></fr:tex> there is nothing to prove. Let the assertion be true up to <fr:tex display="inline"><![CDATA[n]]></fr:tex>. Taking any <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:p>
-                          </fr:mainmatter>
-                          <fr:backmatter />
-                        </fr:tree>
+                        <fr:p>A <fr:em>number ring</fr:em> is a subring of a <fr:link type="external" href="z-0001">number field</fr:link>.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>253</fr:anchor>
+                        <fr:addr type="user">n-0005</fr:addr>
+                        <fr:route>n-0005.xml</fr:route>
+                        <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>14</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                      </fr:frontmatter>
+                      <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
+ 
+   
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:addr type="machine">#243</fr:addr><fr:route>unstable-243.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+    WIP
+</fr:mainmatter><fr:backmatter /></fr:tree>
+ 
+</fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>255</fr:anchor>
+                        <fr:addr type="user">n-000B</fr:addr>
+                        <fr:route>n-000B.xml</fr:route>
+                        <fr:title text="Primitive element theorem for number fields">Primitive element theorem for number fields</fr:title>
+                        <fr:taxon>Theorem</fr:taxon>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>14</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                      </fr:frontmatter>
+                      <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Then <fr:tex display="inline"><![CDATA[K=F[\alpha ]]]></fr:tex></fr:p>
+ 
+   
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr type="machine">#241</fr:addr><fr:route>unstable-241.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+    WIP
+</fr:mainmatter><fr:backmatter /></fr:tree>
+ 
+</fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:p>Observe that in the last step we use that we are working with fields of characteristic<fr:tex display="inline"><![CDATA[0]]></fr:tex></fr:p>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>257</fr:anchor>
+                        <fr:addr type="user">n-0007</fr:addr>
+                        <fr:route>n-0007.xml</fr:route>
+                        <fr:taxon>Exercise</fr:taxon>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>14</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                      </fr:frontmatter>
+                      <fr:mainmatter><fr:p>Find the primitive element of <fr:tex display="inline"><![CDATA[\mathbb  Q(\sqrt  2, \sqrt  3)]]></fr:tex></fr:p>
+ 
+   
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:addr type="machine">#242</fr:addr><fr:route>unstable-242.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+    WIP
+</fr:mainmatter><fr:backmatter /></fr:tree>
+ 
+</fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>258</fr:anchor>
+                        <fr:addr type="user">n-0008</fr:addr>
+                        <fr:route>n-0008.xml</fr:route>
+                        <fr:title text="Galois Extension">Galois Extension</fr:title>
+                        <fr:taxon>Definition</fr:taxon>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>14</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>A field extension <fr:tex display="inline"><![CDATA[K \vert  F]]></fr:tex> is <fr:em>Galois</fr:em> if the subfield <fr:tex display="inline"><![CDATA[F^{\operatorname {Gal}(K \vert  F)}]]></fr:tex> of <fr:tex display="inline"><![CDATA[K]]></fr:tex> fixed  by <fr:tex display="inline"><![CDATA[\operatorname {Gal}(K \vert  F)]]></fr:tex> is the whole base field <fr:tex display="inline"><![CDATA[F]]></fr:tex>.</fr:p>
                       </fr:mainmatter>
                       <fr:backmatter />
                     </fr:tree>
