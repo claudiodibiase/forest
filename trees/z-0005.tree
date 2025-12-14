@@ -1,1 +1,9 @@
 \date{2025-12-14}
+\title{Immersions for number fields}
+\p{
+    Let #{F\subset K} be two number fields. Any immersion #{\sigma \colon F \to \mathbb C} extends to exactly #{[K:F]} immersions #{K \to \mathbb C}.
+
+\p{\em{Proof}
+Procede by induction on #{n \colon = [K \colon F]}. If #{n=1} there is nothing to prove. Let the assertion be true up to #{n}. Taking any #{\alpha}}
+
+}

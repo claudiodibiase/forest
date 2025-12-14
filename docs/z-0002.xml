@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>260</fr:anchor>
+    <fr:anchor>272</fr:anchor>
     <fr:addr type="user">z-0002</fr:addr>
     <fr:route>z-0002.xml</fr:route>
     <fr:title text="Number Ring">Number Ring</fr:title>
@@ -25,7 +25,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>261</fr:anchor>
+            <fr:anchor>273</fr:anchor>
             <fr:addr type="user">idx-0002</fr:addr>
             <fr:route>idx-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>
@@ -79,6 +79,7 @@
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
+            <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
@@ -93,7 +94,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>262</fr:anchor>
+            <fr:anchor>274</fr:anchor>
             <fr:addr type="user">z-0001</fr:addr>
             <fr:route>z-0001.xml</fr:route>
             <fr:title text="Number Field">Number Field</fr:title>

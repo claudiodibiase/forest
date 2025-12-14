@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>245</fr:anchor>
+    <fr:anchor>261</fr:anchor>
     <fr:addr type="user">z-0003</fr:addr>
     <fr:route>z-0003.xml</fr:route>
     <fr:title text="Cyclotomic Field">Cyclotomic Field</fr:title>
@@ -25,7 +25,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>246</fr:anchor>
+            <fr:anchor>262</fr:anchor>
             <fr:addr type="user">idx-0002</fr:addr>
             <fr:route>idx-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>
@@ -79,6 +79,7 @@
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
+            <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
