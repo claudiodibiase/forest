@@ -2,22 +2,21 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>292</fr:anchor>
-    <fr:addr type="user">n-0005</fr:addr>
-    <fr:route>n-0005.xml</fr:route>
-    <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
-    <fr:taxon>Theorem</fr:taxon>
+    <fr:anchor>267</fr:anchor>
+    <fr:addr type="user">n-000E</fr:addr>
+    <fr:route>n-000E.xml</fr:route>
+    <fr:taxon>Exercise</fr:taxon>
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>12</fr:month>
-      <fr:day>14</fr:day>
+      <fr:day>15</fr:day>
     </fr:date>
     <fr:authors />
   </fr:frontmatter>
-  <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
+  <fr:mainmatter><fr:p>Describe <fr:tex display="inline"><![CDATA[\operatorname {Gal}(\mathbb  Q(\sqrt {d})\vert  \mathbb  Q)]]></fr:tex> for <fr:tex display="inline"><![CDATA[d \in  \mathbb  Z]]></fr:tex> square-free.</fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:addr type="machine">#242</fr:addr><fr:route>unstable-242.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
@@ -31,7 +30,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>293</fr:anchor>
+            <fr:anchor>268</fr:anchor>
             <fr:addr type="user">i-0002</fr:addr>
             <fr:route>i-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>

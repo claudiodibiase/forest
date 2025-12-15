@@ -2,14 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>261</fr:anchor>
+    <fr:anchor>273</fr:anchor>
     <fr:addr type="machine">#242</fr:addr>
     <fr:route>unstable-242.xml</fr:route>
     <fr:taxon>Solution</fr:taxon>
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>12</fr:month>
-      <fr:day>14</fr:day>
+      <fr:day>15</fr:day>
     </fr:date>
     <fr:authors />
   </fr:frontmatter>
@@ -25,21 +25,21 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>262</fr:anchor>
-            <fr:addr type="user">n-0007</fr:addr>
-            <fr:route>n-0007.xml</fr:route>
+            <fr:anchor>274</fr:anchor>
+            <fr:addr type="user">n-000E</fr:addr>
+            <fr:route>n-000E.xml</fr:route>
             <fr:taxon>Exercise</fr:taxon>
             <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>12</fr:month>
-              <fr:day>14</fr:day>
+              <fr:day>15</fr:day>
             </fr:date>
             <fr:authors />
           </fr:frontmatter>
-          <fr:mainmatter><fr:p>Find the primitive element of <fr:tex display="inline"><![CDATA[\mathbb  Q(\sqrt  2, \sqrt  3)]]></fr:tex></fr:p>
+          <fr:mainmatter><fr:p>Describe <fr:tex display="inline"><![CDATA[\operatorname {Gal}(\mathbb  Q(\sqrt {d})\vert  \mathbb  Q)]]></fr:tex> for <fr:tex display="inline"><![CDATA[d \in  \mathbb  Z]]></fr:tex> square-free.</fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:addr type="machine">#242</fr:addr><fr:route>unstable-242.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:addr type="machine">#242</fr:addr><fr:route>unstable-242.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
