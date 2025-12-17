@@ -2,30 +2,30 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>313</fr:anchor>
-    <fr:addr type="user">n-0003</fr:addr>
-    <fr:route>n-0003.xml</fr:route>
-    <fr:title text="Cyclotomic Field">Cyclotomic Field</fr:title>
+    <fr:anchor>250</fr:anchor>
+    <fr:addr type="user">n-000I</fr:addr>
+    <fr:route>n-000I.xml</fr:route>
+    <fr:taxon>Remark</fr:taxon>
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>12</fr:month>
-      <fr:day>13</fr:day>
+      <fr:day>17</fr:day>
     </fr:date>
     <fr:authors />
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:p>WIP</fr:p>
+    <fr:p>It coincides with the square of the usual norm over <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>.</fr:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:title text="Context">Context</fr:title>
         <fr:authors />
       </fr:frontmatter>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>314</fr:anchor>
+            <fr:anchor>251</fr:anchor>
             <fr:addr type="user">i-0002</fr:addr>
             <fr:route>i-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>

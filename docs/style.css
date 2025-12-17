@@ -622,3 +622,45 @@ ol li ol li ol {
  background-color: #bbb;
  color: white;
 }
+
+/* ==================================================
+   COLORI SEMANTICI (BARRA + SFONDO LEGGERO)
+   ================================================== */
+
+/* Definizioni – verde */
+section.block[data-taxon="Definition"] {
+  box-shadow: inset 4px 0 0 rgba(0,160,0,0.9);
+  background-color: rgba(0,160,0,0.06);
+}
+
+/* Teoremi – giallo intenso */
+section.block[data-taxon="Theorem"] {
+  box-shadow: inset 4px 0 0 rgba(255,200,0,0.95);
+  background-color: rgba(255,200,0,0.10);
+}
+
+/* Lemmi – giallo chiaro */
+section.block[data-taxon="Lemma"] {
+  box-shadow: inset 4px 0 0 rgba(255,230,120,0.95);
+  background-color: rgba(255,230,120,0.12);
+}
+
+/* Esercizi – rosso */
+section.block[data-taxon="Exercise"] {
+  box-shadow: inset 4px 0 0 rgba(220,60,60,0.95);
+  background-color: rgba(220,60,60,0.10);
+}
+
+/* Esempi – arancione */
+section.block[data-taxon="Example"] {
+  box-shadow: inset 4px 0 0 rgba(255,150,60,0.95);
+  background-color: rgba(255,150,60,0.12);
+}
+
+/* Osservazioni / Note – blu */
+section.block[data-taxon="Remark"],
+section.block[data-taxon="Observation"],
+section.block[data-taxon="Note"] {
+  box-shadow: inset 4px 0 0 rgba(70,120,220,0.95);
+  background-color: rgba(70,120,220,0.08);
+}

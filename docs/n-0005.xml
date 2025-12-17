@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>292</fr:anchor>
+    <fr:anchor>301</fr:anchor>
     <fr:addr type="user">n-0005</fr:addr>
     <fr:route>n-0005.xml</fr:route>
     <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
@@ -17,7 +17,7 @@
   <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:addr type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
@@ -31,7 +31,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>293</fr:anchor>
+            <fr:anchor>302</fr:anchor>
             <fr:addr type="user">i-0002</fr:addr>
             <fr:route>i-0002.xml</fr:route>
             <fr:title text="Number Fields">Number Fields</fr:title>
@@ -45,7 +45,7 @@
           <fr:mainmatter>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>253</fr:anchor>
+                <fr:anchor>252</fr:anchor>
                 <fr:addr type="user">n-0001</fr:addr>
                 <fr:route>n-0001.xml</fr:route>
                 <fr:title text="Number Field">Number Field</fr:title>
@@ -69,7 +69,7 @@
         <fr:tex display="inline"><![CDATA[K= \mathbb  Q(\sqrt  d) = \{a+ b\sqrt  d \colon  a,b \in  \mathbb  Q\}, d \in  \mathbb  Z]]></fr:tex></fr:li></fr:ol></fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>254</fr:anchor>
+                <fr:anchor>253</fr:anchor>
                 <fr:addr type="user">n-0002</fr:addr>
                 <fr:route>n-0002.xml</fr:route>
                 <fr:title text="Number Ring">Number Ring</fr:title>
@@ -89,7 +89,7 @@
             <fr:p>Let us prove some elementary results in field theory applied to number fields.</fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>255</fr:anchor>
+                <fr:anchor>254</fr:anchor>
                 <fr:addr type="user">n-0005</fr:addr>
                 <fr:route>n-0005.xml</fr:route>
                 <fr:title text="Immersions for number fields">Immersions for number fields</fr:title>
@@ -104,7 +104,7 @@
               <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Any immersion <fr:tex display="inline"><![CDATA[\sigma  \colon  F \to  \mathbb  C]]></fr:tex> extends to exactly <fr:tex display="inline"><![CDATA[[K:F]]]></fr:tex> immersions <fr:tex display="inline"><![CDATA[K \to  \mathbb  C]]></fr:tex>.</fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:addr type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
@@ -113,7 +113,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>257</fr:anchor>
+                <fr:anchor>256</fr:anchor>
                 <fr:addr type="user">n-000B</fr:addr>
                 <fr:route>n-000B.xml</fr:route>
                 <fr:title text="Primitive element theorem for number fields">Primitive element theorem for number fields</fr:title>
@@ -128,7 +128,7 @@
               <fr:mainmatter><fr:p>Let <fr:tex display="inline"><![CDATA[F\subset  K]]></fr:tex> be two number fields. Then <fr:tex display="inline"><![CDATA[K=F[\alpha ]]]></fr:tex></fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>257</fr:anchor><fr:addr type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
@@ -138,7 +138,7 @@
             <fr:p>Observe that in the last step we use that we are working with fields of characteristic<fr:tex display="inline"><![CDATA[0]]></fr:tex></fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>259</fr:anchor>
+                <fr:anchor>258</fr:anchor>
                 <fr:addr type="user">n-0007</fr:addr>
                 <fr:route>n-0007.xml</fr:route>
                 <fr:taxon>Exercise</fr:taxon>
@@ -152,7 +152,7 @@
               <fr:mainmatter><fr:p>Find the primitive element of <fr:tex display="inline"><![CDATA[\mathbb  Q(\sqrt  2, \sqrt  3)]]></fr:tex></fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>260</fr:anchor><fr:addr type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>259</fr:anchor><fr:addr type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>14</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
@@ -161,7 +161,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>261</fr:anchor>
+                <fr:anchor>260</fr:anchor>
                 <fr:addr type="user">n-0008</fr:addr>
                 <fr:route>n-0008.xml</fr:route>
                 <fr:title text="Galois Extension">Galois Extension</fr:title>
@@ -180,7 +180,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>262</fr:anchor>
+                <fr:anchor>261</fr:anchor>
                 <fr:addr type="user">n-000D</fr:addr>
                 <fr:route>n-000D.xml</fr:route>
                 <fr:taxon>Exercise</fr:taxon>
@@ -194,7 +194,7 @@
               <fr:mainmatter><fr:p>Show that <fr:tex display="inline"><![CDATA[\mathbb  Q \subset  \mathbb  Q(\sqrt [3]{2})]]></fr:tex> is not a Galois extension.</fr:p>
  
    
-   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>251</fr:anchor><fr:addr type="machine">#243</fr:addr><fr:route>unstable-243.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
+   <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr type="machine">#243</fr:addr><fr:route>unstable-243.xml</fr:route><fr:taxon>Solution</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter>
     WIP
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
@@ -245,6 +245,64 @@
 </fr:mainmatter><fr:backmatter /></fr:tree>
  
 </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:p>We now study a particular subring of <fr:tex display="inline"><![CDATA[\mathbb  Q(i)]]></fr:tex>.</fr:p>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>267</fr:anchor>
+                <fr:addr type="user">n-000G</fr:addr>
+                <fr:route>n-000G.xml</fr:route>
+                <fr:title text="Gaussian integers">Gaussian integers</fr:title>
+                <fr:taxon>Definition</fr:taxon>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>12</fr:month>
+                  <fr:day>17</fr:day>
+                </fr:date>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>We call Gaussian integers the ring <fr:tex display="inline"><![CDATA[\mathbb  Z[i]= \mathbb  Z / (x^2+1)=\{a+ib \vert  a,b \in  \mathbb  Z\}]]></fr:tex>.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:p>A usual strategy to study this sort of subrings is to introduce a norm function.</fr:p>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>268</fr:anchor>
+                <fr:addr type="user">n-000H</fr:addr>
+                <fr:route>n-000H.xml</fr:route>
+                <fr:title text="Norm of the Gaussian integers">Norm of the Gaussian integers</fr:title>
+                <fr:taxon>Definition</fr:taxon>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>12</fr:month>
+                  <fr:day>17</fr:day>
+                </fr:date>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>In the ring of gaussian integers we introduce the function <fr:tex display="block"><![CDATA[N: a+ib \in  \mathbb  Z[i] \mapsto  a^2+b^2]]></fr:tex> which we call norm function.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>269</fr:anchor>
+                <fr:addr type="user">n-000I</fr:addr>
+                <fr:route>n-000I.xml</fr:route>
+                <fr:taxon>Remark</fr:taxon>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>12</fr:month>
+                  <fr:day>17</fr:day>
+                </fr:date>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>It coincides with the square of the usual norm over <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>.</fr:p>
+              </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
           </fr:mainmatter>
